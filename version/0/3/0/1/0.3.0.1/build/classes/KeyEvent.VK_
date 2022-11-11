@@ -1,0 +1,131 @@
+
+Name: VK_ENTER, VK_Int_Value: 10, VK_HEX_Value: 0Xa, VK_CHAR_VALUE:'
+'
+
+Name: VK_TAB, VK_Int_Value: 9, VK_HEX_Value: 0X9, VK_CHAR_VALUE:'	'
+
+Name: VK_SPACE, VK_Int_Value: 32, VK_HEX_Value: 0X20, VK_CHAR_VALUE:' '
+
+Name: VK_COMMA, VK_Int_Value: 44, VK_HEX_Value: 0X2c, VK_CHAR_VALUE:','
+
+Name: VK_MINUS, VK_Int_Value: 45, VK_HEX_Value: 0X2d, VK_CHAR_VALUE:'-'
+
+Name: VK_PERIOD, VK_Int_Value: 46, VK_HEX_Value: 0X2e, VK_CHAR_VALUE:'.'
+
+Name: VK_SLASH, VK_Int_Value: 47, VK_HEX_Value: 0X2f, VK_CHAR_VALUE:'/'
+
+Name: VK_0, VK_Int_Value: 48, VK_HEX_Value: 0X30, VK_CHAR_VALUE:'0'
+
+Name: VK_1, VK_Int_Value: 49, VK_HEX_Value: 0X31, VK_CHAR_VALUE:'1'
+
+Name: VK_2, VK_Int_Value: 50, VK_HEX_Value: 0X32, VK_CHAR_VALUE:'2'
+
+Name: VK_3, VK_Int_Value: 51, VK_HEX_Value: 0X33, VK_CHAR_VALUE:'3'
+
+Name: VK_4, VK_Int_Value: 52, VK_HEX_Value: 0X34, VK_CHAR_VALUE:'4'
+
+Name: VK_5, VK_Int_Value: 53, VK_HEX_Value: 0X35, VK_CHAR_VALUE:'5'
+
+Name: VK_6, VK_Int_Value: 54, VK_HEX_Value: 0X36, VK_CHAR_VALUE:'6'
+
+Name: VK_7, VK_Int_Value: 55, VK_HEX_Value: 0X37, VK_CHAR_VALUE:'7'
+
+Name: VK_8, VK_Int_Value: 56, VK_HEX_Value: 0X38, VK_CHAR_VALUE:'8'
+
+Name: VK_9, VK_Int_Value: 57, VK_HEX_Value: 0X39, VK_CHAR_VALUE:'9'
+
+Name: VK_SEMICOLON, VK_Int_Value: 59, VK_HEX_Value: 0X3b, VK_CHAR_VALUE:';'
+
+Name: VK_EQUALS, VK_Int_Value: 61, VK_HEX_Value: 0X3d, VK_CHAR_VALUE:'='
+
+Name: VK_A, VK_Int_Value: 65, VK_HEX_Value: 0X41, VK_CHAR_VALUE:'A'
+
+Name: VK_B, VK_Int_Value: 66, VK_HEX_Value: 0X42, VK_CHAR_VALUE:'B'
+
+Name: VK_C, VK_Int_Value: 67, VK_HEX_Value: 0X43, VK_CHAR_VALUE:'C'
+
+Name: VK_D, VK_Int_Value: 68, VK_HEX_Value: 0X44, VK_CHAR_VALUE:'D'
+
+Name: VK_E, VK_Int_Value: 69, VK_HEX_Value: 0X45, VK_CHAR_VALUE:'E'
+
+Name: VK_F, VK_Int_Value: 70, VK_HEX_Value: 0X46, VK_CHAR_VALUE:'F'
+
+Name: VK_G, VK_Int_Value: 71, VK_HEX_Value: 0X47, VK_CHAR_VALUE:'G'
+
+Name: VK_H, VK_Int_Value: 72, VK_HEX_Value: 0X48, VK_CHAR_VALUE:'H'
+
+Name: VK_I, VK_Int_Value: 73, VK_HEX_Value: 0X49, VK_CHAR_VALUE:'I'
+
+Name: VK_J, VK_Int_Value: 74, VK_HEX_Value: 0X4a, VK_CHAR_VALUE:'J'
+
+Name: VK_K, VK_Int_Value: 75, VK_HEX_Value: 0X4b, VK_CHAR_VALUE:'K'
+
+Name: VK_L, VK_Int_Value: 76, VK_HEX_Value: 0X4c, VK_CHAR_VALUE:'L'
+
+Name: VK_M, VK_Int_Value: 77, VK_HEX_Value: 0X4d, VK_CHAR_VALUE:'M'
+
+Name: VK_N, VK_Int_Value: 78, VK_HEX_Value: 0X4e, VK_CHAR_VALUE:'N'
+
+Name: VK_O, VK_Int_Value: 79, VK_HEX_Value: 0X4f, VK_CHAR_VALUE:'O'
+
+Name: VK_P, VK_Int_Value: 80, VK_HEX_Value: 0X50, VK_CHAR_VALUE:'P'
+
+Name: VK_Q, VK_Int_Value: 81, VK_HEX_Value: 0X51, VK_CHAR_VALUE:'Q'
+
+Name: VK_R, VK_Int_Value: 82, VK_HEX_Value: 0X52, VK_CHAR_VALUE:'R'
+
+Name: VK_S, VK_Int_Value: 83, VK_HEX_Value: 0X53, VK_CHAR_VALUE:'S'
+
+Name: VK_T, VK_Int_Value: 84, VK_HEX_Value: 0X54, VK_CHAR_VALUE:'T'
+
+Name: VK_U, VK_Int_Value: 85, VK_HEX_Value: 0X55, VK_CHAR_VALUE:'U'
+
+Name: VK_V, VK_Int_Value: 86, VK_HEX_Value: 0X56, VK_CHAR_VALUE:'V'
+
+Name: VK_W, VK_Int_Value: 87, VK_HEX_Value: 0X57, VK_CHAR_VALUE:'W'
+
+Name: VK_X, VK_Int_Value: 88, VK_HEX_Value: 0X58, VK_CHAR_VALUE:'X'
+
+Name: VK_Y, VK_Int_Value: 89, VK_HEX_Value: 0X59, VK_CHAR_VALUE:'Y'
+
+Name: VK_Z, VK_Int_Value: 90, VK_HEX_Value: 0X5a, VK_CHAR_VALUE:'Z'
+
+Name: VK_OPEN_BRACKET, VK_Int_Value: 91, VK_HEX_Value: 0X5b, VK_CHAR_VALUE:'['
+
+Name: VK_BACK_SLASH, VK_Int_Value: 92, VK_HEX_Value: 0X5c, VK_CHAR_VALUE:'\'
+
+Name: VK_CLOSE_BRACKET, VK_Int_Value: 93, VK_HEX_Value: 0X5d, VK_CHAR_VALUE:']'
+
+Name: VK_NUMPAD0, VK_Int_Value: 96, VK_HEX_Value: 0X60, VK_CHAR_VALUE:'0'
+
+Name: VK_NUMPAD1, VK_Int_Value: 97, VK_HEX_Value: 0X61, VK_CHAR_VALUE:'1'
+
+Name: VK_NUMPAD2, VK_Int_Value: 98, VK_HEX_Value: 0X62, VK_CHAR_VALUE:'2'
+
+Name: VK_NUMPAD3, VK_Int_Value: 99, VK_HEX_Value: 0X63, VK_CHAR_VALUE:'3'
+
+Name: VK_NUMPAD4, VK_Int_Value: 100, VK_HEX_Value: 0X64, VK_CHAR_VALUE:'4'
+
+Name: VK_NUMPAD5, VK_Int_Value: 101, VK_HEX_Value: 0X65, VK_CHAR_VALUE:'5'
+
+Name: VK_NUMPAD6, VK_Int_Value: 102, VK_HEX_Value: 0X66, VK_CHAR_VALUE:'6'
+
+Name: VK_NUMPAD7, VK_Int_Value: 103, VK_HEX_Value: 0X67, VK_CHAR_VALUE:'7'
+
+Name: VK_NUMPAD8, VK_Int_Value: 104, VK_HEX_Value: 0X68, VK_CHAR_VALUE:'8'
+
+Name: VK_NUMPAD9, VK_Int_Value: 105, VK_HEX_Value: 0X69, VK_CHAR_VALUE:'9'
+
+Name: VK_MULTIPLY, VK_Int_Value: 106, VK_HEX_Value: 0X6a, VK_CHAR_VALUE:'*'
+
+Name: VK_ADD, VK_Int_Value: 107, VK_HEX_Value: 0X6b, VK_CHAR_VALUE:'+'
+
+Name: VK_SUBTRACT, VK_Int_Value: 109, VK_HEX_Value: 0X6d, VK_CHAR_VALUE:'-'
+
+Name: VK_DECIMAL, VK_Int_Value: 110, VK_HEX_Value: 0X6e, VK_CHAR_VALUE:'.'
+
+Name: VK_DIVIDE, VK_Int_Value: 111, VK_HEX_Value: 0X6f, VK_CHAR_VALUE:'/'
+
+Name: VK_BACK_QUOTE, VK_Int_Value: 192, VK_HEX_Value: 0Xc0, VK_CHAR_VALUE:'`'
+
+Name: VK_QUOTE, VK_Int_Value: 222, VK_HEX_Value: 0Xde, VK_CHAR_VALUE:'''
