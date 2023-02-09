@@ -1,0 +1,15 @@
+this is a Java virtual onscreen keyboard. it is a desktop gui app for any platform that supports java (windows/mac/linux etc jvm)
+this software does not collect/report any type of information in the backround or forground from any user and runs offline as well and it comes with no warranty/guarantee at all of any type. if you have any concern please dont use it.
+I hope you enjoy it.
+in the future there might besome updates for free and paid upgrrades.
+it comes with jre include but you can delete might be able to delete that folder if you dont need it in case if you already have installed java. you can also download the jar file directly from website: https://sites.google.com/view/visyboardfree/
+
+email: visyboard22@gmail.com
+
+https://www/flatech.com.au
+https://sites.google.com/view/www-flatech-com-au
+https://sites.google.com/view/visyboardfree/
+
+https://www.facebook.com/visyboard22/
+https://twitter.com/visyboard22
+https://youtu.be/5PDFijlD0cE
