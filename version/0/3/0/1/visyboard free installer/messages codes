@@ -1,10 +1,11 @@
 message description:                     code:
 
-Installation cancelled by user
-Application already exists
-Installation already in progress
-Disk space is full
-Reboot required
-Network failure
-Package rejected during installation
+Installation cancelled by user                17023
+Application already exists                    1638
+Installation already in progress              1500
+Disk space is full                            1601
+Reboot required                               3010
+Network failure                               1606
+Package rejected during installation          1625
 Installation successful                       0
+17023
